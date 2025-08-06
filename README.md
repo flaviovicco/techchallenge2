@@ -6,5 +6,4 @@ Flavio Luiz Vicco - RM 361664
 
 https://youtu.be/Ti9cvsEYWw8
 
-
-![Resta1](https://github.com/user-attachments/assets/7be257a3-7831-498e-a315-5758daec1916)
+![resta1](https://github.com/user-attachments/assets/3ef28afd-e988-4259-843b-45460c62706a)
