@@ -6,7 +6,7 @@ Flavio Luiz Vicco - RM 361664
 
 https://youtu.be/Ti9cvsEYWw8
 
-![resta1](https://github.com/user-attachments/assets/3ef28afd-e988-4259-843b-45460c62706a)
+🧩 ![resta1](https://github.com/user-attachments/assets/3ef28afd-e988-4259-843b-45460c62706a)
 
 > Olá, pessoal! Eu sou o Flavio Vicco e hoje vou apresentar o Tech Challenge da Fase 2 da Pos Tech em IA para Devs da FIAP, 2025, conduzido pelo professor Sergio Polimante.
 Vou mostrar como aplicar um algoritmo genético para resolver o clássico jogo Resta 1, utilizando Python. Vamos juntos entender, na prática, cada passo dessa solução?
